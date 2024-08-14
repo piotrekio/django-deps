@@ -20,7 +20,7 @@ your project, and ensuring that you don't introduce cycles.
 You can install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/piotrekio/django-deps.git
+pip install django-deps
 ```
 
 Once the package is installed, add `django_deps` to your `INSTALLED_APPS`:
