@@ -17,13 +17,13 @@ your project, and ensuring that you don't introduce cycles.
 
 ## Installation
 
-You can install directly from GitHub:
+You can install the package using `pip`:
 
 ```bash
 pip install django-deps
 ```
 
-Once the package is installed, add `django_deps` to your `INSTALLED_APPS`:
+Now add `django_deps` to your `INSTALLED_APPS`:
 
 ```
 INSTALLED_APPS = [
